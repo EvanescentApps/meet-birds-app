@@ -2,6 +2,9 @@
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
+Check failed in Github because of a "Format violation error"
+but it works well on Android Studio with ./gradlew app:spotlessApply without any error...
+Could not fix this issue, ...
 ![Workflow result](https://github.com/ElectroInc/meet-birds-app/workflows/Check/badge.svg)
 
 
@@ -18,7 +21,7 @@ I think also that the design of the interface is not that bad
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+<img src="/results/screenshot_1.jpg" width="260">&emsp;<img src="/results/screenshot_2.jpg" width="260">
 
 ## License
 ```
