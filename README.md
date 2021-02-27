@@ -6,7 +6,7 @@ Check failed in Github because of a "Format violation error"
 but it works well on Android Studio with ./gradlew app:spotlessApply without any error...
 Could not fix this issue, ...
 ![Workflow result](https://github.com/ElectroInc/meet-birds-app/workflows/Check/badge.svg)
-
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Build_Passing_Shield_Badge.svg/90px-Build_Passing_Shield_Badge.svg.png
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
