@@ -1,18 +1,20 @@
-# Put title of your app here
+"Meet Birds !"
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/ElectroInc/meet-birds-app/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
-
+"Meet Birds !" is an app to meet parrots and other birds, and adopt them
+You can meet them in a video call (preview only)
 
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
-
+I'm proud of the idea of parrots, and how fast i was able to learn and do this app
+I think also that the design of the interface is not that bad
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
