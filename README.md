@@ -2,11 +2,9 @@
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-Check failed in Github because of a "Format violation error"
-but it works well on Android Studio with ./gradlew app:spotlessApply  ./gradlew app:spotlessCheck ./gradlew app:spotlessKotlinCheck  without any error...
-Could not fix this issue, ...
-![Workflow result](https://github.com/ElectroInc/meet-birds-app/workflows/Check/badge.svg)
-![Workflow result](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Build_Passing_Shield_Badge.svg/90px-Build_Passing_Shield_Badge.svg.png)
+
+![Workflow result](https://github.com/ElectroInc/challenge-2/workflows/Check/badge.svg)
+
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
